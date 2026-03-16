@@ -32,9 +32,16 @@ EDA was conducted using statistical summaries and 13 visualizations, including:
 *  Pie charts for device share
 *  Heatmaps for correlation analysis
 *  Interactive Plotly charts for deeper exploration
-
-
-
+## Key Insights
+*  Advertising costs and clicks were relatively consistent across devices.
+*  Tablet devices showed slightly lower conversion rates.
+*  “Data Analytics Course” keyword generated the highest engagement and ROAS.
+*  A strong negative correlation between CTR and CPC suggests that higher engagement can reduce cost per click.
+*  A noticeable spike in cost and conversions around Nov 14 2024, indicates a likely targeted campaign event.
+## Recommendations
+*  Allocate more budget toward high-performing keywords.
+*  Optimize ad creatives and landing pages for tablet users.
+*  Use conversion-focused bidding strategies for higher-value audiences.
 
 
 
